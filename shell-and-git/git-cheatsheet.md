@@ -9,3 +9,7 @@ git commit -m"HIER KOMMENTAR EINGEBEN" = Committen
 git status = Alle files die geändert wurden und deren Status anzeigen
 
 git log --oneline die commit history anzeigen
+
+git switch -c "Hier Name eingeben" erzeugt neue Branch
+
+git switch wechselt zur Branch
